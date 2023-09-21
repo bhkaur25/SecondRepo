@@ -2,4 +2,5 @@ This is a sample file
 This is updated text
 This is a third line
 
-Added warning messageThis is a sample line
+Added warning message
+This is a sample line
